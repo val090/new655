@@ -1,10 +1,11 @@
 My project
 
+Added new line
 Description of My project
 
 Some usefull linrs:
 nano + имя файла откроется редактор текстовый.
 
-Ctrl+x - закрыть окно с сохранением
+Ctrl+x - закрыть окно с сохранением.
 
 
