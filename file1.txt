@@ -6,6 +6,8 @@ Description of My project
 Some usefull linrs:
 nano + имя файла откроется редактор текстовый.
 
+привет
+
 Ctrl+x - закрыть окно с сохранением.
 
 
